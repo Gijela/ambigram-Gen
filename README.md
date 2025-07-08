@@ -1,62 +1,58 @@
+# Ambigram Generator - Free Symmetrical Word Art Creator  
 
-# Ambigram Generator - 免费对称字（Ambigram）艺术生成器
+**[➡️ Try Ambigram Generator Online](https://ambigramgen.com/)**  
 
-[![项目截图](Screenshot.png)](https://ambigramgen.com/)
+---  
 
-**[➡️ 在线体验 Ambigram Generator](https://ambigramgen.com/)**
+**Ambigram Generator** is a powerful and free online tool that uses AI to create stunning symmetrical word art (ambigrams) for you. Whether you're designing a unique tattoo, a clever logo, or just having fun, this tool has you covered. It supports word combinations of varying lengths, generating flawless, symmetrical designs that can be downloaded for free in high-quality SVG or PNG formats—**completely watermark-free**!  
 
----
+## 🌟 Features  
 
-**Ambigram Generator** 是一个强大且免费的在线工具，使用 AI 为您创造出令人惊叹的对称字（Ambigram）艺术。无论您是想设计一个独特的纹身、一个巧妙的 Logo，还是仅仅为了好玩，这个工具都能满足您的需求。我们支持不同长度的单词组合，生成的设计完美、对称，并且可以免费下载高质量的 SVG 或 PNG 文件，**完全没有水印**！
+We are committed to providing the most powerful and user-friendly ambigram generation experience.  
 
-## 🌟 功能特性
+- **🤖 AI-Powered Generation:** Enter one or two words (even of different lengths), and our advanced AI algorithm will calculate and generate the most perfect symmetrical design for you.  
+- **👁️ Real-Time Preview:** Adjust settings and instantly see the final result in the live preview window.  
+- **🎨 Rich Design Options:**  
+    - **Multiple Fonts:** A curated selection of fonts to suit different styles.  
+    - **Advanced Customization:** Freely adjust font size, color, stroke width, and character spacing to create a unique design.  
+    - **Style Presets:** Apply presets like "Romantic," "Gothic," or "Elegant" with a single click.  
+- **⏳ History:** Automatically saves your recent creations for easy revisiting and re-editing.  
+- **📥 High-Quality Export:** Download your design for free as **SVG** (vector) or **PNG** (transparent background), perfect for printing, web, or social media.  
+- **💯 Completely Free, No Watermark:** We promise all features are entirely free, and downloaded files include no watermarks.  
+- **❤️ Tattoo-Optimized:** Generated lines and designs are specially optimized for tattoo use.  
 
-我们致力于提供最强大、最易用的对称字生成体验。
+## 🚀 How to Use  
 
-- **🤖 AI 驱动生成:** 输入一个或两个单词（即使长度不同），我们先进的 AI 算法将为您计算并生成最完美的对称设计。
-- **👁️ 实时预览:** 在您调整设置时，可以通过实时预览窗口即时看到最终效果。
-- **🎨 丰富的设计选项:**
-    - **多种字体:** 提供一系列精选字体，以适应不同的风格。
-    - **高级定制:** 自由调整字体大小、颜色、描边宽度和字符间距，创造独一无二的设计。
-    - **风格预设:** 一键应用“浪漫”、“哥特”、“优雅”等多种预设风格。
-- **⏳ 历史记录:** 自动保存您最近的创作，方便您随时查看和重新编辑。
-- **📥 高质量导出:** 免费下载您的设计为 **SVG** (矢量) 或 **PNG** (透明背景) 格式，完美用于打印、网页或社交媒体。
-- **💯 完全免费，无水印:** 我们承诺所有功能完全免费，下载的文件不包含任何水印。
-- **❤️ 为纹身优化:** 生成的线条和设计经过特别优化，非常适合用作纹身图案。
+Just three steps to own your ambigram artwork:  
 
-## 🚀 如何使用
+1.  **Enter Text:** Type the word(s) you want to transform in the input box. You can enter one word (e.g., "Angel"), which will mirror itself, or two words (e.g., "Family / Forever"), which will transform into each other.  
+2.  **Customize the Design:** Select a font from the library and fine-tune details using advanced customization tools until you're satisfied.  
+3.  **Generate & Download:** Click the "Generate" button, wait for the AI to complete the creation, and then download the perfect artwork to your device.  
 
-只需三步，即可拥有您的对称字艺术品：
+## ✨ Examples  
 
-1.  **输入文字:** 在输入框中键入您想要转换的文字。您可以输入一个词（例如 "Angel"），它将自身对称；或者输入两个词（例如 "Family / Forever"），它们将互相转换。
-2.  **定制设计:** 从字体库中选择一款您喜欢的字体，然后使用高级定制工具微调细节，直到您满意为止。
-3.  **生成并下载:** 点击“生成”按钮，等待 AI 完成创作。之后，您可以将完美的作品下载到您的设备上。
+| Input 1 | Input 2 | Ambigram Effect |  
+| :--- | :--- | :--- |  
+| `Family` | `Forever` | "Family" rotates 180° to become "Forever" |  
+| `Angel` | | "Angel" rotates 180° to remain "Angel" |  
+| `Love` | `Hate` | "Love" rotates 180° to become "Hate" |  
+| `Create` | | "Create" rotates 180° to remain "Create" |  
 
-## ✨ 一些示例
+## 🛠️ Tech Stack  
 
-| 输入 1 | 输入 2 | 对称效果 |
-| :--- | :--- | :--- |
-| `Family` | `Forever` | "Family" 旋转180°后变成 "Forever" |
-| `Angel` | | "Angel" 旋转180°后仍是 "Angel" |
-| `Love` | `Hate` | "Love" 旋转180°后变成 "Hate" |
-| `Create` | | "Create" 旋转180°后仍是 "Create" |
+This project is built with modern web technologies:  
 
+- [Next.js](https://nextjs.org/) – React framework  
+- [React](https://reactjs.org/) – UI library  
+- [TypeScript](https://www.typescriptlang.org/) – Typed JavaScript  
+- [Tailwind CSS](https://tailwindcss.com/) – CSS framework  
+- [Framer Motion](https://www.framer.com/motion/) – Animation library  
+- [Zustand](https://zustand-demo.pmnd.rs/) – State management  
 
-## 🛠️ 技术栈
+## 🤝 Contributions Welcome  
 
-本项目采用现代化的 Web 技术构建：
+We welcome contributions of any kind! If you have ideas, find bugs, or want to improve the code, feel free to submit a Pull Request or create an Issue.  
 
-- [Next.js](https://nextjs.org/) – React 框架
-- [React](https://reactjs.org/) – 用户界面库
-- [TypeScript](https://www.typescriptlang.org/) – 类型化 JavaScript
-- [Tailwind CSS](https://tailwindcss.com/) – CSS 框架
-- [Framer Motion](https://www.framer.com/motion/) – 动画库
-- [Zustand](https://zustand-demo.pmnd.rs/) – 状态管理
+---  
 
-## 🤝 欢迎贡献
-
-我们欢迎任何形式的贡献！如果您有好的想法、发现了 Bug，或者想要改进代码，请随时提交 Pull Request 或创建 Issue。
-
----
-
-立即访问 [AmbigramGen.com](https://ambigramgen.com/)，开始您的创作之旅吧！
+Visit [AmbigramGen.com](https://ambigramgen.com/) now and start your creative journey!
